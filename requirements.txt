@@ -1,0 +1,6 @@
+streamlit
+Pillow
+openai
+pymongo
+python-dotenv
+requests
