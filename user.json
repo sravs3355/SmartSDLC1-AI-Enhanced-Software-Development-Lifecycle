@@ -1,0 +1,6 @@
+{
+  "admin@example.com":
+  {
+    "password": "123", "verified": true, "otp": "123456"
+  }
+}
